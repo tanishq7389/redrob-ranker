@@ -1,7 +1,8 @@
 # Redrob Intelligent Candidate Ranking — Submission
 
 **Challenge:** India Runs Data & AI Challenge — Intelligent Candidate Discovery & Ranking  
-**Team:** redrob_ai  
+**Team:** Solo-Leveler
+ 
 
 ---
 
