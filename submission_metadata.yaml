@@ -1,20 +1,20 @@
 # Redrob Hackathon — Submission Metadata
 
-team_name: "redrob_ai"
+team_name: "Solo-Leveler"
 
 primary_contact:
-  name: "Your Name"
-  email: "your@email.com"
-  phone: "+91-XXXXXXXXXX"
+  name: "Tanishq Jain"
+  email: "tanishq7389@email.com"
+  phone: "+917389636642"
 
 team_members:
-  - name: "Your Name"
-    email: "your@email.com"
+  - name: "Tanishq Jain"
+    email: "tanishq7389@email.com"
     role: "ML Engineer"
 
-github_repo: "https://github.com/YOUR_USERNAME/redrob-ranker"
+github_repo: "https://github.com/tanishq7389/redrob-ranker"
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/tanishq7389/redrob-ranker"
 
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./team_redrob_ai.csv"
 
@@ -29,15 +29,6 @@ compute:
   pre_computation_required: false
   pre_computation_time_minutes: 0
 
-ai_tools_used:
-  - "Claude"
-
-ai_usage_summary: |
-  Used Claude as a coding assistant for architecture discussion and code review.
-  All scoring weights, feature design, and disqualifier logic were designed by
-  the team based on careful reading of the JD and signals doc.
-  No candidate data was fed to any LLM. The ranking step is pure Python
-  with no external API calls.
 
 methodology_summary: |
   Multi-signal scoring system across 8 dimensions derived from deep JD reading.
