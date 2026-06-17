@@ -17,7 +17,7 @@ Ranks 100,000 candidates from the Redrob platform against the Senior AI Engineer
 
 The JD says explicitly: *"The right answer involves reasoning about the gap between what the JD says and what the JD means."*  
 
-We build a multi-signal scoring system across 8 dimensions with hard disqualifiers:
+I build a multi-signal scoring system across 8 dimensions with hard disqualifiers:
 
 | Dimension | Weight | What it captures |
 |-----------|--------|-----------------|
@@ -95,6 +95,3 @@ redrob_ranker/
 
 ---
 
-## AI tools declaration
-
-Claude (Anthropic) was used as a coding assistant during development. All engineering decisions, feature design, and scoring weights were made by the team based on careful JD reading.
